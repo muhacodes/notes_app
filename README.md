@@ -1,4 +1,6 @@
 Django Notes App
+
+
 This is a simple Django web application that allows users to create, read, update, and delete notes.
 
 Requirements
