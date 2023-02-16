@@ -6,11 +6,7 @@ This is a simple Django web application that allows users to create, read, updat
 Requirements
 To run this application, you will need to have the following installed on your computer:
 
-Python 3.x
-
-Django 3.x
-
-virtualenv (optional)
+Python 3.x - Django 3.x - virtualenv (optional)
 
 Installation
 
